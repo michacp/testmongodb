@@ -34,5 +34,5 @@ const resultado=await brands.save()
 console.log(resultado)
 }
 
-crear()
-//mostrar()
+//crear()
+mostrar()
